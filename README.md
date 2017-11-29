@@ -1,4 +1,4 @@
-# **Teste Desenvolvedor Front-End [ESTÁGIO]**  
+# **Teste Web Developer [ESTÁGIO]**  
 #
 #
 > [![Logo Foster](http://www.foster.com.br/images/logo-foster-home.png)](http://www.foster.com.br/)
